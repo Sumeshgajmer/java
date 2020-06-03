@@ -1,2 +1,4 @@
 this is for practice 
 the java is general purpose language.
+
+from java android app can be made.
