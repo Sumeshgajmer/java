@@ -1,0 +1,2 @@
+this is for practice 
+the java is general purpose language.
