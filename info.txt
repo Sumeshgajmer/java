@@ -3,4 +3,8 @@ the java is general purpose language.
 
 from java android app can be made.
 
+
 from java desktop application can also be made.
+
+thank you for reading this file.
+
